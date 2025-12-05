@@ -37,10 +37,10 @@ Here are some of the things I've built while learning:
 ---
 ## Top languages
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/yousefFHB/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yousefFHB" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/yousefFHB/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefFHB&layout=compact&langs_count=8&card_width=320" />
 </a>
 
