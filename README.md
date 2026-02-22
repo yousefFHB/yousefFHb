@@ -1,19 +1,30 @@
-<h1 align="center">Hi, I'm Yousef 👋</h1>
+<h1 align="center">Yousef | Frontend Developer 👋</h1>
 
 <p align="center">
-<b>Frontend Developer | React & Next.js Enthusiast</b><br>
-Building modern, responsive and scalable web applications.
+Building modern, scalable, and user-focused web applications with React & Next.js.
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Professional Summary
 
-- 💻 Focused on **React, Next.js, and TypeScript**
-- 🌱 Currently improving my **full-stack development skills**
-- 🧠 Learning backend architecture with **Node.js**
-- 🎯 Goal: Become a professional full-stack developer
-- 📈 Constantly building projects to sharpen real-world skills
+Frontend developer focused on building clean architecture, responsive UI, and scalable state management solutions.
+
+I enjoy turning complex problems into simple, maintainable interfaces and continuously improving through real-world projects.
+
+Currently expanding into full-stack development with Node.js and TypeScript.
+
+---
+
+## 🧠 Core Skills
+
+- ⚛️ React & Redux Toolkit
+- ▲ Next.js
+- 🟦 TypeScript
+- 🎨 Tailwind CSS, SCSS, Bootstrap
+- 🔐 JWT Authentication & Protected Routes
+- 🌐 REST API Integration
+- 🗂️ Modular Project Architecture
 
 ---
 
@@ -25,23 +36,33 @@ Building modern, responsive and scalable web applications.
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 📊 Dashboard with React & Redux
-Admin dashboard with authentication, role-based access control, charts, and modular Redux architecture.
+### 📊 Full-Stack Admin Dashboard
+React + Redux frontend with role-based authentication and modular CRUD structure.  
+Node.js + TypeScript backend with JWT and MongoDB.
+
+### 🧠 Quiz Application (React)
+Authentication flow, protected routes, quiz creation system, scoring engine, and persistent local storage state.
 
 ### 🌍 Language Learning Landing Page
-Modern responsive landing page with clean UI and structured layout design.
-
-### 🧠 React Quiz Application
-Authentication flow, protected routes, quiz creation system, scoring logic, and localStorage persistence.
+Responsive marketing page focused on layout structure, accessibility, and UI polish.
 
 ### ❤️ ML Heart Disease Prediction
-Machine learning model for predicting heart disease using multiple classification algorithms.
+Machine learning classification project exploring predictive modeling techniques.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Current Focus
+
+- Advanced Next.js patterns
+- Type-safe scalable architecture
+- Backend API development
+- Clean code & performance optimization
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yousefFHB&show_icons=true&theme=tokyonight" />
@@ -51,5 +72,5 @@ Machine learning model for predicting heart disease using multiple classificatio
 ---
 
 <p align="center">
-✨ Always learning. Always building. ✨
+Open to junior frontend and full-stack opportunities 🚀
 </p>
