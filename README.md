@@ -1,48 +1,13 @@
-<h1 align="center">Hi, I'm Yousef 👋</h1>
+# Recent Projects
 
-<p align="center">
-  <b>Frontend Developer (in progress)</b><br>
-  Passionate about building clean, minimal and responsive web experiences.
-</p>
+## 1. Dashboard with React and Redux
+A dashboard project built using React and Redux for state management.
 
----
+## 2. Language Learning Landing Page
+A visually appealing landing page for a language learning platform.
 
-## 🚀 About Me
+## 3. Simple React Quiz App
+A simple quiz application built with React to test knowledge on various subjects.
 
-- 🌱 Currently learning **React** and **Node.js**
-- 💻 Comfortable with **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and **SCSS**
-- 🎯 Interested in becoming a full-stack developer
-- 📚 New to programming, but improving every day
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,react,nodejs,tailwind" />
-</p>
-
----
-
-## 📂 Projects
-
-Here are some of the things I've built while learning:
-
-- ⚡ Interactive HTML/CSS/JS websites  
-- 🎨 Responsive layouts using SCSS and Bootstrap  
-- 🧪 Small JavaScript apps (API practice, UI components, animations)
-
-*(More projects coming soon as I continue learning!)*
-
----
-## Top languages
-
-<a href="https://github.com/yousefFHB/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yousefFHB" />
-</a>
-<a href="https://github.com/yousefFHB/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefFHB&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
+## 4. ML Heart Disease Prediction
+A machine learning project focused on predicting heart disease using various algorithms.
