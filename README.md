@@ -1,7 +1,7 @@
 <h1 align="center">Yousef | Frontend Developer 👋</h1>
 
 <p align="center">
-Building modern, scalable, and user-focused web applications with React & Next.js.
+Building modern, scalable, and user-focused web applications with React, Next.js, and mobile-first experiences.
 </p>
 
 ---
@@ -12,7 +12,7 @@ Frontend developer focused on building clean architecture, responsive UI, and sc
 
 I enjoy turning complex problems into simple, maintainable interfaces and continuously improving through real-world projects.
 
-Currently expanding into full-stack development with Node.js and TypeScript.
+Currently working across frontend and backend stacks with Node.js, TypeScript, and cross-platform mobile development.
 
 ---
 
@@ -20,6 +20,7 @@ Currently expanding into full-stack development with Node.js and TypeScript.
 
 - ⚛️ React & Redux Toolkit
 - ▲ Next.js
+- 📱 React Native (Expo)
 - 🟦 TypeScript
 - 🎨 Tailwind CSS, SCSS, Bootstrap
 - 🔐 JWT Authentication & Protected Routes
@@ -31,8 +32,17 @@ Currently expanding into full-stack development with Node.js and TypeScript.
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,reactnative,nodejs,express,mongodb,tailwind,bootstrap,sass" />
 </p>
+
+- Frontend: React, Next.js, React Native (Expo)
+- Language: JavaScript, TypeScript
+- Backend: Node.js, Express
+- Database: MongoDB (MERN)
+- State: Redux Toolkit, Context API
+- Styling: Tailwind CSS, SCSS, Bootstrap
+- Auth: JWT-based authentication, refresh tokens, protected routes
+- APIs: REST API integration
 
 ---
 
@@ -41,6 +51,12 @@ Currently expanding into full-stack development with Node.js and TypeScript.
 ### 📊 Full-Stack Admin Dashboard
 React + Redux frontend with role-based authentication and modular CRUD structure.  
 Node.js + TypeScript backend with JWT and MongoDB.
+
+### 🛒 MERN E-commerce Platform
+Full MERN (MongoDB, Express, React, Node.js) application featuring product management, shopping cart, order processing, and role-based access control. Implements secure authentication (JWT), server-side validations, and a modular service architecture for scalability.
+
+### 📱 React Native Mobile App (Full Auth)
+Cross-platform mobile application built with React Native (Expo) including a complete authentication flow (signup, login, password reset, token handling), persistent storage (AsyncStorage), protected screens, and API integration for syncing user data.
 
 ### 🧠 Quiz Application (React)
 Authentication flow, protected routes, quiz creation system, scoring engine, and persistent local storage state.
@@ -51,8 +67,8 @@ Responsive marketing page focused on layout structure, accessibility, and UI pol
 ### ❤️ ML Heart Disease Prediction
 Machine learning classification project exploring predictive modeling techniques.
 
-### 🙍‍♂️ Portfolio react page
-Ready Portfolio page with different feutures to use
+### 🙍‍♂️ Portfolio React Page
+Ready portfolio page with multiple features, responsive layouts, and easy customization.
 
 ---
 
