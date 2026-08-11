@@ -1,7 +1,12 @@
-<h1 align="center">Yousef Farahbakhsh | Full-Stack Developer 👋</h1>
+<h1 align="center">Hi, I'm Yousef Farahbakhsh 👋</h1>
 
 <p align="center">
-Building modern, scalable, and user-focused web and mobile applications with React, Next.js, MERN, and React Native.
+  <strong>Full-Stack Developer</strong> • React • Next.js • MERN • React Native
+</p>
+
+<p align="center">
+  I build modern, responsive, and scalable web & mobile applications<br/>
+  with a focus on clean UI, performance, and great user experiences.
 </p>
 
 <p align="center">
@@ -14,241 +19,132 @@ Building modern, scalable, and user-focused web and mobile applications with Rea
 
 ---
 
-## 👨‍💻 Professional Summary
+## 🧑‍💻 About Me
 
-I'm a **Full-Stack Developer** focused on building modern web and mobile applications with clean architecture, responsive interfaces, scalable state management, and reliable backend systems.
+I'm a **Full-Stack MERN Developer** passionate about turning ideas into polished, production-oriented applications.
 
-My main expertise is in the **MERN stack**, with a strong focus on **React, Next.js, Node.js, Express, and MongoDB**. I also build cross-platform mobile applications using **React Native and Expo**, creating smooth, responsive experiences across Android and iOS.
+I enjoy working across the entire development lifecycle — from designing interactive interfaces to building secure APIs, database architectures, authentication systems, and scalable backend services.
 
-I enjoy turning complex requirements into simple, maintainable products and continuously improving my skills through real-world projects.
-
----
-
-## 🧠 Core Skills
-
-* ⚛️ React & Next.js
-* 📱 React Native & Expo
-* 🟢 MERN Stack
-* 🟦 JavaScript & TypeScript
-* 🗃️ Node.js, Express & MongoDB
-* 🎨 Tailwind CSS, NativeWind, SCSS & Bootstrap
-* 🔄 Redux Toolkit, Zustand & Context API
-* 🔐 Clerk & JWT Authentication
-* 🌐 REST API Integration
-* 🛡️ Protected Routes & Role-Based Access Control
-* 🏗️ Modular & Scalable Project Architecture
-* ⚡ Performance Optimization & Responsive UI
+* ⚛️ Frontend development with **React, Next.js & TypeScript**
+* 🎨 Modern UI with **Tailwind CSS, GSAP & Three.js**
+* 🧩 State management with **Redux Toolkit & Zustand**
+* 🛠️ Backend development with **Node.js, Express & MongoDB**
+* 📱 Cross-platform apps with **React Native & Expo**
+* 🔐 Authentication with **JWT & Clerk**
+* 🐳 Development & deployment with **Git, Docker & Linux**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### 🌐 Frontend
+### 🎨 Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux&perline=8" />
 </p>
 
-* **React** — Building reusable, component-driven user interfaces and interactive web applications.
-* **Next.js** — Developing modern full-stack applications with routing, optimized rendering, and scalable architecture.
-* **TypeScript** — Adding type safety and improving maintainability across larger projects.
-* **JavaScript** — Core language for modern frontend and full-stack development.
+**HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS • Redux**
 
-### 📱 Mobile Development
+### ⚙️ Backend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=8" />
 </p>
 
-* **React Native** — Building cross-platform mobile applications with native performance and reusable React components.
-* **Expo** — Developing, testing, and deploying React Native applications with a streamlined development workflow.
-* **NativeWind** — Using Tailwind-style utility classes to build consistent and responsive mobile interfaces.
-* **React Native Reanimated** — Creating smooth animations and interactive mobile experiences.
+**Node.js • Express.js • MongoDB • Mongoose • REST APIs • JWT • Clerk**
 
-### 🟢 MERN Stack
+### 📱 Mobile
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react&perline=8" />
 </p>
 
-I work with the **MERN stack** to build complete full-stack applications:
+**React Native • Expo • NativeWind**
 
-* **MongoDB** — Flexible NoSQL database for application data and user information.
-* **Express.js** — Backend framework for building REST APIs and server-side application logic.
-* **React** — Component-based frontend development and dynamic user interfaces.
-* **Node.js** — JavaScript runtime for scalable backend services and APIs.
+### ✨ UI & Animation
 
-I use the MERN stack to develop applications with **authentication, protected routes, CRUD operations, REST APIs, database integration, validation, and modular backend architecture**.
-
-### 🎨 Styling & UI
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" />
+<p>
+  <img src="https://skillicons.dev/icons?i=threejs&perline=8" />
 </p>
 
-* Tailwind CSS
-* NativeWind
-* SCSS / Sass
-* Bootstrap
-* Responsive & mobile-first UI development
+**GSAP • ScrollTrigger • Three.js • Framer Motion • Responsive Design**
 
-### 🔐 Authentication & Security
+### 🛠️ Tools & Workflow
 
-* Clerk Authentication
-* JWT Authentication
-* Refresh Tokens
-* Protected Routes
-* Role-Based Access Control
-* Secure session management
-* API authentication
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,npm,vite&perline=8" />
+</p>
 
-### 🗂️ State & Data Management
-
-* Redux Toolkit
-* Zustand
-* React Context API
-* AsyncStorage
-* REST API integration
+**Git • GitHub • Docker • Linux • VS Code • Figma • npm • Vite**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📱 Subscription Tracker — React Native + Expo
-
-A modern cross-platform mobile application designed to help users manage and track their subscriptions.
-
-**Features include:**
-
-* 🔐 Complete authentication flow with Clerk
-* 👤 User profile and account management
-* 💳 Subscription management
-* 📊 Spending insights and analytics
-* 📅 Upcoming renewal tracking
-* 📈 Charts and visual spending analysis
-* 🎨 Modern dark-themed mobile UI
-* ⚡ Smooth animations and interactions
-* 🗂️ Zustand-based state management
-
-**Built with:** React Native, Expo, TypeScript, NativeWind, Clerk, Zustand, Reanimated, and React Native Gifted Charts.
+| Project                                  | Technologies                                   | Description                                                                                                                                             |
+| ---------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🛒 **MERN E-Commerce + Admin Dashboard** | React • Node • Express • MongoDB • Redux • JWT | Full-stack e-commerce platform with product management, categories, cart, favorites, orders, authentication, role-based admin dashboard, and REST APIs. |
+| 💬 **Full-Stack Chat Application**       | MERN • Socket.io • Zustand                     | Real-time messaging platform with private/group conversations, authentication, file sharing, online status, and responsive UI.                          |
+| 📱 **Subscription Tracker**              | React Native • Expo • TypeScript • Clerk       | Cross-platform mobile application for managing subscriptions, tracking spending, viewing analytics, and monitoring renewal dates.                       |
+| 🧠 **Heart Disease Prediction**          | Python • Scikit-learn                          | Machine learning classification project focused on analyzing healthcare data and building a predictive model.                                           |
+| 🌐 **Personal Portfolio**                | React • Tailwind CSS                           | Modern developer portfolio showcasing projects, technical skills, experiments, and professional work.                                                   |
 
 ---
 
-### 🛒 MERN E-commerce Platform
-
-A full-stack e-commerce application built using the MERN stack.
-
-**Features include:**
-
-* Product management
-* Shopping cart
-* Order processing
-* User authentication
-* Role-based access control
-* JWT authentication
-* Server-side validation
-* REST API integration
-* Modular service architecture
-
-**Built with:** MongoDB, Express.js, React, Node.js, JWT, and modern frontend technologies.
-
----
-
-### 📊 Full-Stack Admin Dashboard
-
-A full-stack administration dashboard focused on scalable architecture and efficient data management.
-
-**Features include:**
-
-* Role-based authentication
-* CRUD operations
-* Modular frontend architecture
-* REST API integration
-* JWT authentication
-* MongoDB data management
-* Redux Toolkit state management
-
-**Built with:** React, Redux Toolkit, Node.js, TypeScript, Express, MongoDB, and JWT.
-
----
-
-### 🧠 Quiz Application
-
-Interactive React application with a complete quiz and scoring system.
-
-**Features include:**
-
-* Authentication flow
-* Protected routes
-* Quiz creation
-* Dynamic questions
-* Scoring engine
-* Persistent local state
-* Responsive UI
-
-**Built with:** React, JavaScript, and modern frontend technologies.
-
----
-
-### 🌍 Language Learning Landing Page
-
-Responsive landing page focused on modern UI design, accessibility, responsive layouts, and polished user interactions.
-
----
-
-### ❤️ Heart Disease Prediction
-
-Machine learning classification project exploring predictive modeling techniques using healthcare data.
-
----
-
-### 🙍‍♂️ Personal Portfolio
-
-A modern developer portfolio showcasing my projects, skills, experience, and technical background.
-
-**Built with:** React, modern CSS, animations, responsive layouts, and reusable components.
-
----
-
-## 📈 Current Focus
-
-Currently expanding my expertise across both web and mobile development.
-
-* ⚡ Advanced Next.js patterns
-* 🟢 Full-Stack MERN development
-* 📱 React Native & Expo
-* 🟦 Type-safe TypeScript architecture
-* 🔐 Authentication & secure API design
-* 🏗️ Scalable backend architecture
-* 🚀 Performance optimization
-* 🧹 Clean code and maintainable project structure
-* 📊 Data-driven applications
-
----
-
-## 💻 Development Philosophy
-
-I believe good software should be:
-
-**Simple → Scalable → Maintainable → User-focused**
-
-I focus on writing reusable components, organizing projects into clear modules, keeping frontend and backend responsibilities separated, and building interfaces that are both functional and visually polished.
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yousefFHB&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefFHB&layout=compact&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yousefFHB&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefFHB&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefFHB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🚀 What I'm Looking For
+## 🎯 Currently Focused On
 
-I'm currently open to **Junior Frontend Developer, React Developer, React Native Developer, and Full-Stack/MERN opportunities** where I can contribute to real-world products while continuing to grow as a developer.
+* ⚡ Advanced **Next.js** patterns and full-stack architecture
+* 📱 **React Native & Expo** for cross-platform applications
+* 🏗️ Scalable backend architecture with **Node.js & MongoDB**
+* 🦾 **TypeScript** and maintainable application architecture
+* 🚀 Performance optimization and production-ready applications
+* 🎨 Interactive interfaces with modern animation and motion
+
+---
+
+## 🤝 Open To
+
+I'm open to opportunities as a:
+
+**Frontend Developer • React Developer • React Native Developer • Full-Stack / MERN Developer**
+
+I'm especially interested in working on real-world products where I can contribute to both **user-facing experiences and backend systems** while continuing to grow as a developer.
+
+---
+
+## 🌐 Find Me Online
 
 <p align="center">
-  Building. Learning. Improving. 🚀
+  <a href="https://yousef-fhb.ir">
+    <img src="https://img.shields.io/badge/Portfolio-yousef--fhb.ir-182350?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/yousefFHB">
+    <img src="https://img.shields.io/badge/GitHub-yousefFHB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Building. Learning. Shipping. 🚀</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yousefFHB&label=Profile%20Views&color=182350&style=flat" alt="Profile Views" />
 </p>
