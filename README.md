@@ -1,4 +1,8 @@
 <h1 align="center">Hi, I'm Yousef Farahbakhsh 👋</h1>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/wordmark?username=torvalds&theme=aurora&label=Yousef%Farahbakhsh" width="100%" alt="3D ASCII wordmark for Linus Torvalds" />
+</p>
+
 
 <p align="center">
   <strong>Full-Stack Developer</strong> • React • Next.js • MERN • React Native
