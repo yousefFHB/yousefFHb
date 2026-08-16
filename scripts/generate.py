@@ -142,6 +142,7 @@ def main() -> int:
     parser.add_argument("--demo", action="store_true", help="use deterministic preview data")
     args = parser.parse_args()
     cfg = config()
+    cfg["name"] = "Yousef"
     username = os.environ.get("GH_USERNAME") or os.environ.get("GITHUB_REPOSITORY_OWNER") or cfg["username"]
     cfg["username"] = username
     if args.demo:
