@@ -1,7 +1,20 @@
+<div align="center">
+
+<img src="./assets/cover.svg" width="900" alt="Paper Signal editorial profile cover" />
+
+<br><br>
+
+<img src="./assets/folio.svg" width="900" alt="Paper Signal GitHub work index" />
+
+</div>
+
+<br>
+
 <h1 align="center">Hi, I'm Yousef Farahbakhsh 👋</h1>
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=Yousef&theme=aurora&label=Yousef%Farahbakhsh" width="100%" alt="3D ASCII wordmark for Linus Torvalds" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=Yousef&theme=aurora&label=Yousef%Farahbakhsh" width="100%" alt="3D ASCII wordmark for Yousef Farahbakhsh" />
 </p>
+
 
 
 <p align="center">

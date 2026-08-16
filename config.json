@@ -1,0 +1,22 @@
+{
+  "username": "yousefFHB",
+  "name": "Yousef Farahbakhsh",
+  "monogram": "YF",
+  "edition": "01",
+  "role": "Full-Stack MERN Developer",
+  "location": "Mashhad, Iran",
+  "statement": "Crafting modern MERN, Next.js & React Native apps.",
+  "website": "yousef-fhb.ir",
+  "availability": "Open for collaborations & roles",
+  "services": [
+    "Full-Stack MERN",
+    "React & Next.js",
+    "React Native Mobile",
+    "GSAP & Three.js UI"
+  ],
+  "featured_repos": [
+    "fullstack-e-commerce-app",
+    "Full-stack-chat",
+    "react-native-app"
+  ]
+}
