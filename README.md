@@ -4,10 +4,6 @@
 
 <img src="./assets/cover.svg" width="900" alt="Paper Signal editorial profile cover" />
 
-<br><br>
-
-<img src="./assets/folio.svg" width="900" alt="Paper Signal GitHub work index" />
-
 </div>
 
 <br>
@@ -107,15 +103,9 @@ I enjoy working across the entire development lifecycle — from designing inter
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yousefFHB&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefFHB&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefFHB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div>
+ <img src="./assets/folio.svg" width="900" alt="Paper Signal GitHub work index" />
+</div>
 
 ---
 
