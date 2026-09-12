@@ -8,15 +8,12 @@
 
 <br>
 
-
-
-
 <p align="center">
   <strong>Full-Stack Developer</strong> • React • Next.js • MERN • React Native
 </p>
 
 <p align="center">
-  I build modern, responsive, and scalable web & mobile applications<br/>
+  I build modern, responsive, and scalable web &amp; mobile applications<br/>
   with a focus on clean UI, performance, and great user experiences.
 </p>
 
@@ -37,7 +34,7 @@ I'm a **Full-Stack MERN Developer** passionate about turning ideas into polished
 I enjoy working across the entire development lifecycle — from designing interactive interfaces to building secure APIs, database architectures, authentication systems, and scalable backend services.
 
 * ⚛️ Frontend development with **React, Next.js & TypeScript**
-* 🎨 Modern UI with **Tailwind CSS, GSAP & Three.js**
+* 🎨 Modern UI with **Tailwind CSS, MUI, GSAP & Three.js**
 * 🧩 State management with **Redux Toolkit & Zustand**
 * 🛠️ Backend development with **Node.js, Express & MongoDB**
 * 📱 Cross-platform apps with **React Native & Expo**
@@ -54,7 +51,7 @@ I enjoy working across the entire development lifecycle — from designing inter
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux&perline=8" />
 </p>
 
-**HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS • Redux**
+**HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS • MUI • Redux**
 
 ### ⚙️ Backend
 
@@ -90,15 +87,23 @@ I enjoy working across the entire development lifecycle — from designing inter
 
 ---
 
+## 🔨 Currently Working On
+
+> 🚧 **[fullstack-chat-v2](https://github.com/yousefFHB/fullstack-chat-v2)** — A next-generation full-stack real-time chat application (in active development). Stay tuned for the public release!
+
+---
+
 ## 🚀 Featured Projects
 
-| Project                                  | Technologies                                   | Description                                                                                                                                             |
-| ---------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Project | Technologies | Description |
+| ------- | ------------ | ----------- |
+| 🖥️ **[Full-Stack MUI + TypeScript](https://github.com/yousefFHB/full-stack-mui-backts)** | React 19 • MUI • TypeScript • Node.js • Express 5 • Mongoose 9 • JWT | Production-grade full-stack app. The backend is built with Express 5, TypeScript, Mongoose 9, and JWT auth; the frontend is React 19 + Material UI with dynamic Role-Based Access Control (RBAC). |
+| 🔍 **[Mini Search Engine & Web Crawler](https://github.com/yousefFHB/search-engine)** | Node.js • JSDOM • TF-IDF • Jest | From-scratch JavaScript mini search engine that concurrently crawls websites (pre-configured for MDN), builds a persistent JSON inverted index, ranks results with weighted TF-IDF scoring, and serves a zero-dependency HTTP server with a dark-mode web UI. 23 passing tests. |
 | 🛒 **MERN E-Commerce + Admin Dashboard** | React • Node • Express • MongoDB • Redux • JWT | Full-stack e-commerce platform with product management, categories, cart, favorites, orders, authentication, role-based admin dashboard, and REST APIs. |
-| 💬 **Full-Stack Chat Application**       | MERN • Socket.io • Zustand                     | Real-time messaging platform with private/group conversations, authentication, file sharing, online status, and responsive UI.                          |
-| 📱 **Subscription Tracker**              | React Native • Expo • TypeScript • Clerk       | Cross-platform mobile application for managing subscriptions, tracking spending, viewing analytics, and monitoring renewal dates.                       |
-| 🧠 **Heart Disease Prediction**          | Python • Scikit-learn                          | Machine learning classification project focused on analyzing healthcare data and building a predictive model.                                           |
-| 🌐 **Personal Portfolio**                | React • Tailwind CSS                           | Modern developer portfolio showcasing projects, technical skills, experiments, and professional work.                                                   |
+| 💬 **Full-Stack Chat Application** | MERN • Socket.io • Zustand | Real-time messaging platform with private/group conversations, authentication, file sharing, online status, and responsive UI. |
+| 📱 **Subscription Tracker** | React Native • Expo • TypeScript • Clerk | Cross-platform mobile application for managing subscriptions, tracking spending, viewing analytics, and monitoring renewal dates. |
+| 🧠 **Heart Disease Prediction** | Python • Scikit-learn | Machine learning classification project focused on analyzing healthcare data and building a predictive model. |
+| 🌐 **Personal Portfolio** | React • Tailwind CSS | Modern developer portfolio showcasing projects, technical skills, experiments, and professional work. |
 
 ---
 
