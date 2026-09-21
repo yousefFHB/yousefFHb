@@ -36,7 +36,7 @@ I enjoy working across the entire development lifecycle — from designing inter
 * ⚛️ Frontend development with **React, Next.js & TypeScript**
 * 🎨 Modern UI with **Tailwind CSS, MUI, GSAP & Three.js**
 * 🧩 State management with **Redux Toolkit & Zustand**
-* 🛠️ Backend development with **Node.js, Express & MongoDB**
+* 🛠️ Backend development with **Node.js, Express, MongoDB, PostgreSQL & Redis**
 * 📱 Cross-platform apps with **React Native & Expo**
 * 🔐 Authentication with **JWT & Clerk**
 * 🐳 Development & deployment with **Git, Docker & Linux**
@@ -56,10 +56,10 @@ I enjoy working across the entire development lifecycle — from designing inter
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis&perline=8" />
 </p>
 
-**Node.js • Express.js • MongoDB • Mongoose • REST APIs • JWT • Clerk**
+**Node.js • Express.js • MongoDB • PostgreSQL • Redis • Mongoose • REST APIs • JWT • Clerk**
 
 ### 📱 Mobile
 
@@ -89,7 +89,7 @@ I enjoy working across the entire development lifecycle — from designing inter
 
 ## 🔨 Currently Working On
 
-> 🚧 **[fullstack-chat-v2](https://github.com/yousefFHB/fullstack-chat-v2)** — A next-generation full-stack real-time chat application (in active development). Stay tuned for the public release!
+> ⚡ **Scalable Distributed Architectures** — Exploring high-throughput microservices, Redis caching strategies, PostgreSQL relational optimization, and advanced Next.js full-stack applications.
 
 ---
 
@@ -97,13 +97,12 @@ I enjoy working across the entire development lifecycle — from designing inter
 
 | Project | Technologies | Description |
 | ------- | ------------ | ----------- |
-| 🖥️ **[Full-Stack MUI + TypeScript](https://github.com/yousefFHB/full-stack-mui-backts)** | React 19 • MUI • TypeScript • Node.js • Express 5 • Mongoose 9 • JWT | Production-grade full-stack app. The backend is built with Express 5, TypeScript, Mongoose 9, and JWT auth; the frontend is React 19 + Material UI with dynamic Role-Based Access Control (RBAC). |
+| 🛡️ **[Full-Stack RBAC Platform](https://github.com/yousefFHB/full-stack-mui-backts)** | React 19 • MUI • TypeScript • Node.js • Express 5 • Mongoose 9 • JWT • vanta-api | Production-grade full-stack platform featuring dynamic Role-Based Access Control (RBAC), minimalist glassmorphism UI, secure JWT authentication, and robust backend operational error handling with vanta-api. |
+| 💬 **[Full-Stack Chat App v2](https://github.com/yousefFHB/Full-stack-chatapp-v2)** | React Native • Expo • TypeScript • Node.js • Express 5 • Socket.IO • MongoDB • Redux Toolkit | Cross-platform real-time messaging application (iOS, Android & Web) featuring private/group/channel chats, bi-directional WebSocket events, live presence, voice messages, media sharing, and JWT auth. |
 | 🔍 **[Mini Search Engine & Web Crawler](https://github.com/yousefFHB/search-engine)** | Node.js • JSDOM • TF-IDF • Jest | From-scratch JavaScript mini search engine that concurrently crawls websites (pre-configured for MDN), builds a persistent JSON inverted index, ranks results with weighted TF-IDF scoring, and serves a zero-dependency HTTP server with a dark-mode web UI. 23 passing tests. |
-| 🛒 **MERN E-Commerce + Admin Dashboard** | React • Node • Express • MongoDB • Redux • JWT | Full-stack e-commerce platform with product management, categories, cart, favorites, orders, authentication, role-based admin dashboard, and REST APIs. |
-| 💬 **Full-Stack Chat Application** | MERN • Socket.io • Zustand | Real-time messaging platform with private/group conversations, authentication, file sharing, online status, and responsive UI. |
-| 📱 **Subscription Tracker** | React Native • Expo • TypeScript • Clerk | Cross-platform mobile application for managing subscriptions, tracking spending, viewing analytics, and monitoring renewal dates. |
-| 🧠 **Heart Disease Prediction** | Python • Scikit-learn | Machine learning classification project focused on analyzing healthcare data and building a predictive model. |
-| 🌐 **Personal Portfolio** | React • Tailwind CSS | Modern developer portfolio showcasing projects, technical skills, experiments, and professional work. |
+| 🛒 **[MERN E-Commerce + Admin Dashboard](https://github.com/yousefFHB/fullstack-e-commerce-app)** | React • Node • Express • MongoDB • Redux • JWT | Full-stack e-commerce platform with product management, categories, cart, favorites, orders, authentication, role-based admin dashboard, and REST APIs. |
+| 🧠 **[Heart Disease Prediction](https://github.com/yousefFHB/ML-Heart-Disease-Prediction)** | Python • Scikit-learn | Machine learning classification project focused on analyzing healthcare data and building a predictive model. |
+| 🌐 **[Personal Portfolio](https://yousef-fhb.ir)** | React • Tailwind CSS | Modern developer portfolio showcasing projects, technical skills, experiments, and professional work. |
 
 ---
 
@@ -118,7 +117,7 @@ I enjoy working across the entire development lifecycle — from designing inter
 
 * ⚡ Advanced **Next.js** patterns and full-stack architecture
 * 📱 **React Native & Expo** for cross-platform applications
-* 🏗️ Scalable backend architecture with **Node.js & MongoDB**
+* 🏗️ Scalable backend architecture with **Node.js, MongoDB, PostgreSQL & Redis**
 * 🦾 **TypeScript** and maintainable application architecture
 * 🚀 Performance optimization and production-ready applications
 * 🎨 Interactive interfaces with modern animation and motion
